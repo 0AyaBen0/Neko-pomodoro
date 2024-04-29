@@ -1,5 +1,5 @@
 :root {
-    font-size: 62.5%; /* 1rem = 10px */
+    font-size: 62.5%;
 
     --color-primary: #ffc8dd;
     --color-secondary: #210b2c;
@@ -68,8 +68,6 @@ img{
     opacity: .8;
     transition: 1s ease-in;
 }
-
-
 
 .timer {
     display: flex;
